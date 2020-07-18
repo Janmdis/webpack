@@ -19,7 +19,7 @@
   "dependencies": {
     "csv-loader": "^3.0.2",
     "file-loader": "^4.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "xml-loader": "^1.2.1"
   }
 }
